@@ -36,6 +36,7 @@ Display the results in a user-friendly way.
 ✔ Scalability: Can be extended to use advanced models like Random Forest or Neural Networks.
 
 **Potential Applications**
+
 🎵 Music Industry Analytics: Helps producers and record labels identify hit songs.
 
 📈 Streaming Platform Insights: Predicts which songs might perform well on Spotify/Apple Music.
